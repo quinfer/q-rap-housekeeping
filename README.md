@@ -4,7 +4,7 @@ Many of the problems with not being able to push to the class organisation can b
 
 You should see the below image once you have done this
 
-![](linked-results.png)
+![](photo.png)
 
 **Once linked, your identity will be configured for you.**
 
