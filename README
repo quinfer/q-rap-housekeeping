@@ -1,4 +1,4 @@
-## Configuration for exams and project deadline
+# RStudio cloud github configuration for exams and project deadline
 
 Many of the problems with not being able to push to the class organisation can be solved on q-rap rstudio by having a linked GitHub account.  Go to this link to do this [https://login.rstudio.cloud/identity/authentication](https://login.rstudio.cloud/identity/authentication)
 
